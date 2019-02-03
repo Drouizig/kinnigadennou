@@ -34,7 +34,7 @@ Note: test note
 ---
 
 ### Troidigezhioù
-#### Mezantoù frank a-bep seurt
+#### Meziantoù frank a-bep seurt
 
 
 ![Meziantoù](images/meziantou.png)
