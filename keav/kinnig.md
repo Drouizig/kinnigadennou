@@ -187,7 +187,26 @@ Note: na vez ket kavet ken e stumm fetis met posupl eo prenañ folennoù pegello
 
  * Geriadurioù
  * Barzhonegoù, pezhioù-c'hoari, danevelloù, romantoù
- * ...
+
+----
+
+### Mozilla Common Voice
+
+ * Raktres sevel ul lusker anaoudegezh ar vouezh
+ * Roadennoù digor
+ * Mouezhioù roet ha kadarnet gant an holl
+
+----
+
+### Mozilla Common Voice
+
+  ![Common Voice](../common/images/shots/common_voice1.png)
+
+----
+
+### Mozilla Common Voice
+
+  ![Common Voice](../common/images/shots/common_voice2.png)
 
 ---
 
