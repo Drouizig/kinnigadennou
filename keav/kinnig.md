@@ -32,6 +32,15 @@ Gwenn Meynier
 
 ---
 
+### N'omp ket hon-unan!
+
+ * OpenStreetMap.bzh
+ * Ofis Publik ar Brezhoneg
+ * Mignoned ar Brezhoneg
+ * Stag, Roued (bev.bzh), Edubreizh, Pik.bzh
+ * Hiniennoù (brezhonadur.com)
+---
+
 ### Troidigezhioù
 #### Meziantoù frank a-bep seurt
 
@@ -47,7 +56,6 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
  ![Clementine](../common/images/logo/clementine.png) <!-- .element height="10%" width="10%" -->
  ![VLC](../common/images/logo/vlc.png) <!-- .element height="10%" width="10%" -->
  * Grafegoù : GIMP, Tuxpaint, Pinta, Inkscape
- * Aodio / video : Clementine, VLC, OpenShot  
  ![Gimp](../common/images/logo/gimp.gif) <!-- .element height="10%" width="10%" -->
  ![Libreoffice](../common/images/logo/libreoffice.png) <!-- .element height="40%" width="40%" -->
  * Bureveg : LibreOffice, AbiWord, Scribus
@@ -61,6 +69,7 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
  * Kenrouedad (internet) : Firefox, Thunderbird, FileZilla, Joomla
   ![Firefox](../common/images/logo/firefox.png) <!-- .element height="10%" width="10%" -->
  ![Thunderbird](../common/images/logo/thunderbird.png) <!-- .element height="10%" width="10%" -->
+ * Traoù all : Homebank, YakYak
 
 ----
 
@@ -142,6 +151,12 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 
   * Gerva ar stlenneg war lec’hienn An Drouizig
 
+----
+
+### En un doare fetis
+
+  ![Transifex](../common/images/shots/transifex.png) <!-- .element height="80%" width="80%" -->
+
 ---
 
 ### Ostilhoù all
@@ -208,6 +223,14 @@ Note: na vez ket kavet ken e stumm fetis met posupl eo prenañ folennoù pegello
 
   ![Common Voice](../common/images/shots/common_voice2.png)
 
+----
+
+### Nevez-flamm : stal.bzh
+
+ ![OpenStreetMap.bzh](../common/images/shots/stalbzh.png) <!-- .element height="70%" width="70%" -->
+
+(Gant ar gevredigezh Mignoned ar brezhoneg) <!-- .element class="small" -->
+
 ---
 
 ### C'hoarioù video
@@ -260,4 +283,10 @@ http://drouizig.org
  * ![Facebook](../common/images/logo/facebook.png) <!-- .element height="20%" width="20%" --> facebook.com/androuizig
  * ![Disapora](../common/images/logo/diaspora.png) <!-- .element height="5%" width="5%" --> drouizig@framasphere.org
  * ![Instagram](../common/images/logo/instagram.png) <!-- .element height="5%" width="5%" --> androuizig
+
+---
+
+## Stailhit !
+
+http://172.17.2.133:8000
 
