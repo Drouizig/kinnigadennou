@@ -1,6 +1,6 @@
 ## Ostilhoù niverel e brezhoneg
 
-![An Drouizig](../common/images/logo.png) <!-- .element height="50%" width="50%" -->
+![An Drouizig](/_assets/common/images/logo.png) <!-- .element height="50%" width="50%" -->
 
 D'ar Yaou 14 a viz Meurzh
 
@@ -45,7 +45,7 @@ Gwenn Meynier
 #### Meziantoù frank a-bep seurt
 
 
-![Meziantoù](../common/images/meziantou.png)
+![Meziantoù](/_assets/common/images/meziantou.png)
 
 Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 ----
@@ -53,11 +53,11 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 ### Peseurt meziantoù?
 
  * Aodio / video : Clementine, VLC, OpenShot
- ![Clementine](../common/images/logo/clementine.png) <!-- .element height="10%" width="10%" -->
- ![VLC](../common/images/logo/vlc.png) <!-- .element height="10%" width="10%" -->
+ ![Clementine](/_assets/common/images/logo/clementine.png) <!-- .element height="10%" width="10%" -->
+ ![VLC](/_assets/common/images/logo/vlc.png) <!-- .element height="10%" width="10%" -->
  * Grafegoù : GIMP, Tuxpaint, Pinta, Inkscape
- ![Gimp](../common/images/logo/gimp.gif) <!-- .element height="10%" width="10%" -->
- ![Libreoffice](../common/images/logo/libreoffice.png) <!-- .element height="40%" width="40%" -->
+ ![Gimp](/_assets/common/images/logo/gimp.gif) <!-- .element height="10%" width="10%" -->
+ ![Libreoffice](/_assets/common/images/logo/libreoffice.png) <!-- .element height="40%" width="40%" -->
  * Bureveg : LibreOffice, AbiWord, Scribus
 
 ----
@@ -65,47 +65,47 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 ### Peseurt meziantoù?
 
  * Kelennadel : Gcompris
- ![GCompris](../common/images/logo/gcompris.png) <!-- .element height="10%" width="10%" -->
+ ![GCompris](/_assets/common/images/logo/gcompris.png) <!-- .element height="10%" width="10%" -->
  * Kenrouedad (internet) : Firefox, Thunderbird, FileZilla, Joomla
-  ![Firefox](../common/images/logo/firefox.png) <!-- .element height="10%" width="10%" -->
- ![Thunderbird](../common/images/logo/thunderbird.png) <!-- .element height="10%" width="10%" -->
+  ![Firefox](/_assets/common/images/logo/firefox.png) <!-- .element height="10%" width="10%" -->
+ ![Thunderbird](/_assets/common/images/logo/thunderbird.png) <!-- .element height="10%" width="10%" -->
  * Traoù all : Homebank, YakYak
 
 ----
 
 ### Skouer : Libreoffice
 
- ![Libreoffice](../common/images/shots/libreoffice2.png)
+ ![Libreoffice](/_assets/common/images/shots/libreoffice2.png)
 
 ----
 
 ### Skouer : Clementine
 
- ![Clementine](../common/images/shots/clementine.png)
+ ![Clementine](/_assets/common/images/shots/clementine.png)
 
 ----
 
 ### Skouer : Firefox
 
- ![Firefox](../common/images/shots/firefox.png) <!-- .element height="70%" width="70%" -->
+ ![Firefox](/_assets/common/images/shots/firefox.png) <!-- .element height="70%" width="70%" -->
 
 ----
 
 ### Ostilhoù enlinenn : framadate
 
- ![Framadate](../common/images/shots/framadate.png) <!-- .element height="70%" width="70%" -->
+ ![Framadate](/_assets/common/images/shots/framadate.png) <!-- .element height="70%" width="70%" -->
 
 ----
 
 ### Ostilhoù enlinenn : Qwant
 
- ![Qwant](../common/images/shots/qwant.png) <!-- .element height="70%" width="70%" -->
+ ![Qwant](/_assets/common/images/shots/qwant.png) <!-- .element height="70%" width="70%" -->
  
 ----
 
 #### Ostilhoù enlinenn : OpenStreetMap.bzh
 
- ![OpenStreetMap.bzh](../common/images/shots/osmbzh.png) <!-- .element height="70%" width="70%" -->
+ ![OpenStreetMap.bzh](/_assets/common/images/shots/osmbzh.png) <!-- .element height="70%" width="70%" -->
 
 (Gant ar gevredigezh OpenStreetMap.bzh) <!-- .element class="small" -->
 
@@ -113,13 +113,13 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 
 ### Ostilhoù enlinenn : Lec'hiennoù a-bep seurt
 
-  ![Sinedou](../common/images/shots/sinedoù.png)
+  ![Sinedou](/_assets/common/images/shots/sinedoù.png)
 
 ----
 
 ### War ho pellgomzer : Firefox
 
-  ![Firefox](../common/images/shots/firefox_hezoug.png) <!-- .element height="30%" width="30%" -->
+  ![Firefox](/_assets/common/images/shots/firefox_hezoug.png) <!-- .element height="30%" width="30%" -->
 
 (Android & iOS) <!-- .element class="small" -->
 
@@ -127,8 +127,8 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 
 ### War ho pellgomzer : K-9 Mail ha Vanilla Music
 
-  ![K-9* Mail](../common/images/shots/k9.png) <!-- .element height="30%" width="30%" -->
-  ![Vanilla](../common/images/shots/vanilla.png) <!-- .element height="30%" width="30%" -->
+  ![K-9* Mail](/_assets/common/images/shots/k9.png) <!-- .element height="30%" width="30%" -->
+  ![Vanilla](/_assets/common/images/shots/vanilla.png) <!-- .element height="30%" width="30%" -->
 
 (Android hepken) <!-- .element class="small" -->
 
@@ -136,7 +136,7 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 
 ### War ho pellgomzer : SwiftKey
 
-  ![SwiftKey](../common/images/shots/swiftkey.png) <!-- .element height="30%" width="30%" -->
+  ![SwiftKey](/_assets/common/images/shots/swiftkey.png) <!-- .element height="30%" width="30%" -->
 
 (Gant an embregerezh SwiftKey) <!-- .element class="small" -->
 
@@ -147,7 +147,7 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
   * Kavout ar c'hempouez etre troidigezhioù simpl, resis ha berr
   * Peurunvan, geriaoueg pinvidik ha kempoell Preder
 
-  ![Preder](../common/images/logo/preder.png)
+  ![Preder](/_assets/common/images/logo/preder.png)
 
   * Gerva ar stlenneg war lec’hienn An Drouizig
 
@@ -155,7 +155,7 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 
 ### En un doare fetis
 
-  ![Transifex](../common/images/shots/transifex.png) <!-- .element height="80%" width="80%" -->
+  ![Transifex](/_assets/common/images/shots/transifex.png) <!-- .element height="80%" width="80%" -->
 
 ---
 
@@ -163,16 +163,16 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 #### ...hag a c'hall sikour kalzig
 
 
-  ![Difazier](../common/images/logo/difazier.png) <!-- .element height="30%" width="30%" -->
-  ![Chwerty](../common/images/logo/chwerty.png) <!-- .element height="30%" width="30%" -->
-  ![Levreloù](../common/images/logo/levrelioù.png) <!-- .element height="30%" width="30%" -->
+  ![Difazier](/_assets/common/images/logo/difazier.png) <!-- .element height="30%" width="30%" -->
+  ![Chwerty](/_assets/common/images/logo/chwerty.png) <!-- .element height="30%" width="30%" -->
+  ![Levreloù](/_assets/common/images/logo/levrelioù.png) <!-- .element height="30%" width="30%" -->
 
 ----
 
 ### An Drouizig difazier
 
 
-  ![Office](../common/images/logo/office.png) <!-- .element height="30%" width="30%" -->
+  ![Office](/_assets/common/images/logo/office.png) <!-- .element height="30%" width="30%" -->
   * An Drouizig Difazier war Microsoft Office
   * Difazier Hunspell : Reizskrivañ hepken war LibreOffice, Firefox, Thunderbird... 
   * LanguageTool : Difazier yezhadur war LibreOffice hag enlinenn (languagetool.org)
@@ -181,18 +181,18 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 
 ### An Drouizig difazier
 
-  ![Difazier](../common/images/shots/difazier_office1.gif)
+  ![Difazier](/_assets/common/images/shots/difazier_office1.gif)
 ----
 
 ### An Drouizig difazier
 
-  ![Difazier](../common/images/shots/difazier_office2.gif)
+  ![Difazier](/_assets/common/images/shots/difazier_office2.gif)
 
 ----
 
 ### Klavier c'hwerty
 
-  ![Chwerty](../common/images/shots/chwerty.gif)
+  ![Chwerty](/_assets/common/images/shots/chwerty.gif)
 
 Note: na vez ket kavet ken e stumm fetis met posupl eo prenañ folennoù pegelloù
 
@@ -215,19 +215,19 @@ Note: na vez ket kavet ken e stumm fetis met posupl eo prenañ folennoù pegello
 
 ### Mozilla Common Voice
 
-  ![Common Voice](../common/images/shots/common_voice1.png)
+  ![Common Voice](/_assets/common/images/shots/common_voice1.png)
 
 ----
 
 ### Mozilla Common Voice
 
-  ![Common Voice](../common/images/shots/common_voice2.png)
+  ![Common Voice](/_assets/common/images/shots/common_voice2.png)
 
 ----
 
 ### Nevez-flamm : stal.bzh
 
- ![OpenStreetMap.bzh](../common/images/shots/stalbzh.png) <!-- .element height="70%" width="70%" -->
+ ![OpenStreetMap.bzh](/_assets/common/images/shots/stalbzh.png) <!-- .element height="70%" width="70%" -->
 
 (Gant ar gevredigezh Mignoned ar brezhoneg) <!-- .element class="small" -->
 
@@ -241,37 +241,37 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 
 ### Supertux
 
-  ![Supertux](../common/images/shots/supertux.png)<!-- .element height="80%" width="80%" -->
+  ![Supertux](/_assets/common/images/shots/supertux.png)<!-- .element height="80%" width="80%" -->
 
 ----
 
 ### SuperTuxKart
 
-  ![Supertuxkart](../common/images/shots/supertuxkart.png)<!-- .element height="80%" width="80%" -->
+  ![Supertuxkart](/_assets/common/images/shots/supertuxkart.png)<!-- .element height="80%" width="80%" -->
 
 ----
 
 ### Steredenn
 
-  ![Sterdenn](../common/images/shots/steredenn2.png)<!-- .element height="80%" width="80%" -->
+  ![Sterdenn](/_assets/common/images/shots/steredenn2.png)<!-- .element height="80%" width="80%" -->
 
 ----
 
 ### Steredenn
 
-  ![Sterdenn](../common/images/shots/steredenn1.png)<!-- .element height="80%" width="80%" -->
+  ![Sterdenn](/_assets/common/images/shots/steredenn1.png)<!-- .element height="80%" width="80%" -->
 
 ----
 
 ### Minecraft
 
-  ![Minecraft](../common/images/shots/minecraft1.png)<!-- .element height="80%" width="80%" -->
+  ![Minecraft](/_assets/common/images/shots/minecraft1.png)<!-- .element height="80%" width="80%" -->
 
 ----
 
 ### Minecraft
 
-  ![Minecraft](../common/images/shots/minecraft2.png)<!-- .element height="80%" width="80%" -->
+  ![Minecraft](/_assets/common/images/shots/minecraft2.png)<!-- .element height="80%" width="80%" -->
 
 ---
 
@@ -279,10 +279,10 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 
 http://drouizig.org
 
- * ![Twitter](../common/images/logo/twitter.png) <!-- .element height="5%" width="5%" --> @AnDrouizig
- * ![Facebook](../common/images/logo/facebook.png) <!-- .element height="20%" width="20%" --> facebook.com/androuizig
- * ![Disapora](../common/images/logo/diaspora.png) <!-- .element height="5%" width="5%" --> drouizig@framasphere.org
- * ![Instagram](../common/images/logo/instagram.png) <!-- .element height="5%" width="5%" --> androuizig
+ * ![Twitter](/_assets/common/images/logo/twitter.png) <!-- .element height="5%" width="5%" --> @AnDrouizig
+ * ![Facebook](/_assets/common/images/logo/facebook.png) <!-- .element height="20%" width="20%" --> facebook.com/androuizig
+ * ![Disapora](/_assets/common/images/logo/diaspora.png) <!-- .element height="5%" width="5%" --> drouizig@framasphere.org
+ * ![Instagram](/_assets/common/images/logo/instagram.png) <!-- .element height="5%" width="5%" --> androuizig
 
 ---
 
