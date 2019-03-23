@@ -52,25 +52,29 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 
 ### Peseurt meziantoù?
 
- * Aodio / video : Clementine, VLC, OpenShot
- ![Clementine](/_assets/common/images/logo/clementine.png) <!-- .element height="10%" width="10%" -->
- ![VLC](/_assets/common/images/logo/vlc.png) <!-- .element height="10%" width="10%" -->
- * Grafegoù : GIMP, Tuxpaint, Pinta, Inkscape
- ![Gimp](/_assets/common/images/logo/gimp.gif) <!-- .element height="10%" width="10%" -->
+ * Ar re vras : **Firefox**, **Thunderbird**, **Libreoffice**, **VLC**, **Gimp**
+
+  ![Firefox](/_assets/common/images/logo/firefox.png) <!-- .element height="10%" width="10%" -->
+ ![Thunderbird](/_assets/common/images/logo/thunderbird.png) <!-- .element height="10%" width="10%" -->
  ![Libreoffice](/_assets/common/images/logo/libreoffice.png) <!-- .element height="40%" width="40%" -->
- * Bureveg : LibreOffice, AbiWord, Scribus
+ ![VLC](/_assets/common/images/logo/vlc.png) <!-- .element height="10%" width="10%" -->
+ ![Gimp](/_assets/common/images/logo/gimp.gif) <!-- .element height="10%" width="10%" -->
 
 ----
 
 ### Peseurt meziantoù?
 
- * Kelennadel : Gcompris
- ![GCompris](/_assets/common/images/logo/gcompris.png) <!-- .element height="10%" width="10%" -->
- * Kenrouedad (internet) : Firefox, Thunderbird, FileZilla, Joomla
-  ![Firefox](/_assets/common/images/logo/firefox.png) <!-- .element height="10%" width="10%" -->
- ![Thunderbird](/_assets/common/images/logo/thunderbird.png) <!-- .element height="10%" width="10%" -->
- * Traoù all : Homebank, YakYak
+ * Ar re vihan met talvoudus : **Tuxpaint**, **Homebank**, **Gcompris**, **Clementine**, **Openshot**
 
+ ![GCompris](/_assets/common/images/logo/gcompris.png) <!-- .element height="10%" width="10%" -->
+ ![Clementine](/_assets/common/images/logo/clementine.png) <!-- .element height="10%" width="10%" -->
+ ![TuxPaint](/_assets/common/images/logo/tuxpaint.png) <!-- .element height="10%" width="10%" -->
+ ![Homebank](/_assets/common/images/logo/homebank.png) <!-- .element height="10%" width="10%" -->
+ ![Openshot ](/_assets/common/images/logo/openshot.png) <!-- .element height="10%" width="10%" -->
+----
+### Peseurt meziantoù?
+
+ * Meziantoù michereloc'h : **Pinta**, **Inkscape**, **FileZilla**, **Joomla**, **AbiWord**, **Scribus**
 ----
 
 ### Skouer : Libreoffice
@@ -108,12 +112,6 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
  ![OpenStreetMap.bzh](/_assets/common/images/shots/osmbzh.png) <!-- .element height="70%" width="70%" -->
 
 (Gant ar gevredigezh OpenStreetMap.bzh) <!-- .element class="small" -->
-
-----
-
-### Ostilhoù enlinenn : Lec'hiennoù a-bep seurt
-
-  ![Sinedou](/_assets/common/images/shots/sinedoù.png)
 
 ----
 
@@ -198,13 +196,6 @@ Note: na vez ket kavet ken e stumm fetis met posupl eo prenañ folennoù pegello
 
 ----
 
-### Levrioù elektronek
-
- * Geriadurioù
- * Barzhonegoù, pezhioù-c'hoari, danevelloù, romantoù
-
-----
-
 ### Mozilla Common Voice
 
  * Raktres sevel ul lusker anaoudegezh ar vouezh
@@ -222,14 +213,6 @@ Note: na vez ket kavet ken e stumm fetis met posupl eo prenañ folennoù pegello
 ### Mozilla Common Voice
 
   ![Common Voice](/_assets/common/images/shots/common_voice2.png)
-
-----
-
-### Nevez-flamm : stal.bzh
-
- ![OpenStreetMap.bzh](/_assets/common/images/shots/stalbzh.png) <!-- .element height="70%" width="70%" -->
-
-(Gant ar gevredigezh Mignoned ar brezhoneg) <!-- .element class="small" -->
 
 ---
 
