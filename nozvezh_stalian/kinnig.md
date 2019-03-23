@@ -2,7 +2,7 @@
 
 ![An Drouizig](/_assets/common/images/logo.png) <!-- .element height="50%" width="50%" -->
 
-D'ar Yaou 14 a viz Meurzh
+D'ar Sadorn 23 a viz Meurzh
 
 Gwenn Meynier
 
@@ -279,6 +279,7 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 
 http://drouizig.org
 
+ * drouizig@drouizig.org
  * ![Twitter](/_assets/common/images/logo/twitter.png) <!-- .element height="5%" width="5%" --> @AnDrouizig
  * ![Facebook](/_assets/common/images/logo/facebook.png) <!-- .element height="20%" width="20%" --> facebook.com/androuizig
  * ![Disapora](/_assets/common/images/logo/diaspora.png) <!-- .element height="5%" width="5%" --> drouizig@framasphere.org
@@ -288,5 +289,5 @@ http://drouizig.org
 
 ## Stailhit !
 
-http://172.17.2.133:8000
+http://192.168.1.122:8000
 
