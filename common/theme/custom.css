@@ -280,6 +280,11 @@
 .reveal .small {
   font-size: 12pt;
 }
+.reveal .translation {
+  font-size: 20pt;
+  font-style: italic;
+  color: #888;
+}
 
  /*********************************************
   * PRINT BACKGROUND

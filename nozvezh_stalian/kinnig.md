@@ -1,4 +1,5 @@
 ## Ostilhoù niverel e brezhoneg
+__(### Outils numériques en breton
 
 ![An Drouizig](/_assets/common/images/logo.png) <!-- .element height="50%" width="50%" -->
 
@@ -9,40 +10,56 @@ Gwenn Meynier
 ---
 
 ### Ostilhoù niverel e brezhoneg
+__(### Outils numériques en breton
 
  * An Drouizig
  * Troidigezhioù e brezhoneg
+ __(* Traductions en breton
  * Ostilhoù all (Difazier, klavier c'hwerty...)
+ __(* Autres outils (Correcteur, clavier c'hwerty...)
 
 ---
 
 ### An Drouizig : ur gevredigezh oberiant
+__(### An Drouizig : une association active
 
  * Savet e 2003 e Gwened
+ __(* Créée en 2003 à Vannes
  * Brudañ ar brezhoneg war an teknologiezhioù nevez
+ __(* Promouvoir la langue bretonne sur les nouvelles technologies
  * Meziantoù, difazier, klavier ha traoù all
+ __(* Logiciels, correcteurs, clavier, etc.
 
 ---
 
-### Niverel e brezhoneg : perak ?
+### Niverel e brezhoneg : perak?
+__(### Le numérique en breton, pourquoi ?
 
  * Ezhomm personel
+ __(* Besoin personel
  * Ur yezh a c’hell bezañ implijet war **an holl dachennoù**, hini an **niverel** ivez
+ __(* Une langue peut être utilisée dans tous les domaines, y compris celui du numérique
  * Ur redi zoken, hervezomp, evit dazont ar yezh
+ __(* C'est même une obligation, selon nous, pour le futur de la langue
 
 ---
 
 ### N'omp ket hon-unan!
+__(### Nous ne sommes pas seuls !
 
  * OpenStreetMap.bzh
  * Ofis Publik ar Brezhoneg
+ __(* L'office publique de la langue bretonne
  * Mignoned ar Brezhoneg
  * Stag, Roued (bev.bzh), Edubreizh, Pik.bzh
  * Hiniennoù (brezhonadur.com)
+ __(* Personnes individuelles (brezhonadur.com)
 ---
 
 ### Troidigezhioù
 #### Meziantoù frank a-bep seurt
+__(### Traductions
+__(#### Toutes sortes de logiciels libres
 
 
 ![Meziantoù](/_assets/common/images/meziantou.png)
@@ -51,8 +68,10 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 ----
 
 ### Peseurt meziantoù?
+__(### Quels logiciels ?
 
  * Ar re vras : **Firefox**, **Thunderbird**, **Libreoffice**, **VLC**, **Gimp**
+__(* Les grands
 
   ![Firefox](/_assets/common/images/logo/firefox.png) <!-- .element height="10%" width="10%" -->
  ![Thunderbird](/_assets/common/images/logo/thunderbird.png) <!-- .element height="10%" width="10%" -->
@@ -63,18 +82,23 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 ----
 
 ### Peseurt meziantoù?
+__(### Quels logiciels ?
 
  * Ar re vihan met talvoudus : **Tuxpaint**, **Homebank**, **Gcompris**, **Clementine**, **Openshot**
+__(* Les petits mais utiles
 
- ![GCompris](/_assets/common/images/logo/gcompris.png) <!-- .element height="10%" width="10%" -->
- ![Clementine](/_assets/common/images/logo/clementine.png) <!-- .element height="10%" width="10%" -->
  ![TuxPaint](/_assets/common/images/logo/tuxpaint.png) <!-- .element height="10%" width="10%" -->
  ![Homebank](/_assets/common/images/logo/homebank.png) <!-- .element height="10%" width="10%" -->
+ ![GCompris](/_assets/common/images/logo/gcompris.png) <!-- .element height="10%" width="10%" -->
+ ![Clementine](/_assets/common/images/logo/clementine.png) <!-- .element height="10%" width="10%" -->
  ![Openshot ](/_assets/common/images/logo/openshot.png) <!-- .element height="10%" width="10%" -->
 ----
 ### Peseurt meziantoù?
+__(### Quels logiciels ?
 
  * Meziantoù michereloc'h : **Pinta**, **Inkscape**, **FileZilla**, **Joomla**, **AbiWord**, **Scribus**
+ __(* Logiciels plus professionels
+
 ----
 
 ### Skouer : Libreoffice
@@ -96,18 +120,21 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 ----
 
 ### Ostilhoù enlinenn : framadate
+__(### Outils en ligne : framadate
 
  ![Framadate](/_assets/common/images/shots/framadate.png) <!-- .element height="70%" width="70%" -->
 
 ----
 
 ### Ostilhoù enlinenn : Qwant
+__(### Outils en ligne : Qwant
 
  ![Qwant](/_assets/common/images/shots/qwant.png) <!-- .element height="70%" width="70%" -->
  
 ----
 
 #### Ostilhoù enlinenn : OpenStreetMap.bzh
+__(### Outils en ligne : OpenStreetMap.bzh
 
  ![OpenStreetMap.bzh](/_assets/common/images/shots/osmbzh.png) <!-- .element height="70%" width="70%" -->
 
@@ -116,6 +143,8 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 ----
 
 ### War ho pellgomzer : Firefox
+__(### Sur votre téléphone : Firefox
+
 
   ![Firefox](/_assets/common/images/shots/firefox_hezoug.png) <!-- .element height="30%" width="30%" -->
 
@@ -124,6 +153,7 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 ----
 
 ### War ho pellgomzer : K-9 Mail ha Vanilla Music
+__(### Sur votre téléphone : K-9 Mail et Vanilla Music
 
   ![K-9* Mail](/_assets/common/images/shots/k9.png) <!-- .element height="30%" width="30%" -->
   ![Vanilla](/_assets/common/images/shots/vanilla.png) <!-- .element height="30%" width="30%" -->
@@ -133,25 +163,28 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 ----
 
 ### War ho pellgomzer : SwiftKey
+__(### Sur votre téléphone : SwiftKey
+(Gant an embregerezh SwiftKey) <!-- .element class="small" -->
 
   ![SwiftKey](/_assets/common/images/shots/swiftkey.png) <!-- .element height="30%" width="30%" -->
 
-(Gant an embregerezh SwiftKey) <!-- .element class="small" -->
 
 ---
 
 ### Penaos e troomp e brezhoneg?
+__(### Comment nous traduisons en breton?
 
   * Kavout ar c'hempouez etre troidigezhioù simpl, resis ha berr
+__(* Trouver l'équilibre entre des traductions simples, précises et courtes
   * Peurunvan, geriaoueg pinvidik ha kempoell Preder
-
-  ![Preder](/_assets/common/images/logo/preder.png)
-
-  * Gerva ar stlenneg war lec’hienn An Drouizig
+__(* Peurunvan, vocabulaire riche et cohérent de Preder
+  * Gerva ar stlenneg war lec’hienn An Drouizig (http://drouizig.org)
+__(* Lexique de l'informatique sur le site d'An Drouizig
 
 ----
 
 ### En un doare fetis
+__(### De manière concrète
 
   ![Transifex](/_assets/common/images/shots/transifex.png) <!-- .element height="80%" width="80%" -->
 
@@ -159,7 +192,8 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 
 ### Ostilhoù all
 #### ...hag a c'hall sikour kalzig
-
+__(### D'autres outils
+__(#### Qui peuvent aider beaucoup
 
   ![Difazier](/_assets/common/images/logo/difazier.png) <!-- .element height="30%" width="30%" -->
   ![Chwerty](/_assets/common/images/logo/chwerty.png) <!-- .element height="30%" width="30%" -->
@@ -170,10 +204,13 @@ Note: notennit ar pezh a zedenn ac'hanoc'h evit staliañ anezho goude
 ### An Drouizig difazier
 
 
-  ![Office](/_assets/common/images/logo/office.png) <!-- .element height="30%" width="30%" -->
+  ![Office](/_assets/common/images/logo/office.png) <!-- .element height="20%" width="20%" -->
   * An Drouizig Difazier war Microsoft Office
+__(* An Drouizig Difazier sur Microsoft Office
   * Difazier Hunspell : Reizskrivañ hepken war LibreOffice, Firefox, Thunderbird... 
+__(* Correcteur Hunspell : seulement l'othographe sur LibreOffice, Firefox, Thunderbird... 
   * LanguageTool : Difazier yezhadur war LibreOffice hag enlinenn (languagetool.org)
+__(* LanguageTool : correcteur grammatical sur LibreOffice et en ligne (languagetool.org)
 
 ----
 
@@ -199,8 +236,11 @@ Note: na vez ket kavet ken e stumm fetis met posupl eo prenañ folennoù pegello
 ### Mozilla Common Voice
 
  * Raktres sevel ul lusker anaoudegezh ar vouezh
+__(* Projet de moteur de reconnaiscance vocale
  * Roadennoù digor
+__(* Données ouvertes
  * Mouezhioù roet ha kadarnet gant an holl
+__(* Voix données et validées par tout le monde
 
 ----
 
@@ -217,6 +257,7 @@ Note: na vez ket kavet ken e stumm fetis met posupl eo prenañ folennoù pegello
 ---
 
 ### C'hoarioù video
+__(### Jeux vidéo
 
 Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù yaouank(oc'h)
 
@@ -259,6 +300,7 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 ---
 
 ### Kaozeit ganeomp
+__(### Échangez avec nous
 
 http://drouizig.org
 
@@ -270,7 +312,8 @@ http://drouizig.org
 
 ---
 
-## Stailhit !
+## Stailhit!
+__(## Installez !
 
 http://192.168.1.122:8000
 
