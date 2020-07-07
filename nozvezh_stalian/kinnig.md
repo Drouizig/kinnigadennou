@@ -3,7 +3,7 @@ __(### Outils numériques en breton
 
 ![An Drouizig](/_assets/common/images/logo.png) <!-- .element height="50%" width="50%" -->
 
-D'ar Sadorn 23 a viz Meurzh
+D'an 19 a viz Ebrel 2020
 
 Gwenn Meynier
 
@@ -25,35 +25,48 @@ __(### An Drouizig : une association active
 
  * Savet e 2003 e Gwened
  __(* Créée en 2003 à Vannes
- * Brudañ ar brezhoneg war an teknologiezhioù nevez
+ * **Brudañ** ar brezhoneg war an teknologiezhioù nevez
  __(* Promouvoir la langue bretonne sur les nouvelles technologies
- * Meziantoù, difazier, klavier ha traoù all
+ * **Meziantoù**, **difazier**, **klavier** ha traoù all
  __(* Logiciels, correcteurs, clavier, etc.
+
+---
+
+### N'omp ket hon-unan! (1/2)
+__(### Nous ne sommes pas seuls !
+
+ * __Bed Niverel__ (poellgor krouet e 2017)![Bed niverel](/_assets/common/images/logo/bedniverel.png)<!-- .element height="10%" width="10%" style="float:right" -->
+ __(* Bed Niverel (commité créé en 2017)
+ * __Ofis Publik ar Brezhoneg__ ![OPAB](/_assets/common/images/logo/opab.png)<!-- .element height="10%" width="10%" style="float:right" -->
+ __(* L'office publique de la langue bretonne
+ * __OpenStreetMap.bzh__![OSM](/_assets/common/images/logo/openstreetmap.png)<!-- .element height="10%" width="10%" style="float:right" -->
+ 
+---
+
+### N'omp ket hon-unan! (2/2)
+__(### Nous ne sommes pas seuls !
+ 
+ * __Mignoned ar Brezhoneg__ (stal.bzh) ![MAB](/_assets/common/images/logo/mignoned.png)<!-- .element height="15%" width="15%" style="float:right" -->
+ 
+ * __Stag__, __Roued__ (bev.bzh), __Edubreizh__, __Pik.bzh__
+ ![MAB](/_assets/common/images/logo/stag.png)<!-- .element height="10%" width="10%"  -->
+ ![MAB](/_assets/common/images/logo/pik.png)<!-- .element height="10%" width="10%"  -->
+ ![MAB](/_assets/common/images/logo/edubreizh.png)<!-- .element height="10%" width="10%"  -->
+ * __Hiniennoù__ (brezhonadur.com)
+ __(* Personnes individuelles (brezhonadur.com)
 
 ---
 
 ### Niverel e brezhoneg : perak?
 __(### Le numérique en breton, pourquoi ?
 
- * Ezhomm personel
- __(* Besoin personel
- * Ur yezh a c’hell bezañ implijet war **an holl dachennoù**, hini an **niverel** ivez
+ * Ur **yezh** a c’hell bezañ implijet war **an holl dachennoù**, hini an **niverel** ivez
  __(* Une langue peut être utilisée dans tous les domaines, y compris celui du numérique
- * Ur redi zoken, hervezomp, evit dazont ar yezh
- __(* C'est même une obligation, selon nous, pour le futur de la langue
+ * Un ostilh pouezus-tre eo Internet evit **treuzkas, deskiñ, eskemm**
+ __(* Internet est un outil très important pour transmettre, apprendre, échanger
+ * __Implijet e vez Internet bemdez__ gant al lodenn vrasañ eus an dud, ar grennarded ivez : poellek eo e vefe brezhoneg warnañ neuze
+ __(* La plupart des gens utilisent Internet tous les jours, les adolescents aussi : c'est logique qu'il y ai du breton dessus aussi
 
----
-
-### N'omp ket hon-unan!
-__(### Nous ne sommes pas seuls !
-
- * OpenStreetMap.bzh
- * Ofis Publik ar Brezhoneg
- __(* L'office publique de la langue bretonne
- * Mignoned ar Brezhoneg
- * Stag, Roued (bev.bzh), Edubreizh, Pik.bzh
- * Hiniennoù (brezhonadur.com)
- __(* Personnes individuelles (brezhonadur.com)
 ---
 
 ### Troidigezhioù
@@ -117,6 +130,51 @@ __(### Quels logiciels ?
 
  ![Firefox](/_assets/common/images/shots/firefox.png) <!-- .element height="70%" width="70%" -->
 
+---
+
+## Ar brezhoneg er genrouedad
+__(## Le breton sur Internet
+
+![Gwer-ha-du](/_assets/common/images/bzhmatrix.png)<!-- .element height="50%" width="50%" -->
+
+----
+
+### Lec'hiennoù
+__(### Sites
+
+ * Geriadurioù ![opab](/_assets/common/images/logo/opab.png)<!-- .element height="5%" width="5%"  style="float:right"-->![preder](/_assets/common/images/logo/preder.png)<!-- .element height="10%" width="10%"  style="float:right"-->![geriafurch](/_assets/common/images/logo/geriafurch.png)<!-- .element height="5%" width="5%"  style="float:right"-->
+ __(* Dictionnaires
+ * Keleier/kleweled![ya](/_assets/common/images/logo/ya.png)<!-- .element height="5%" width="5%"  style="float:right"-->![brezhoweb](/_assets/common/images/logo/brezhoweb.png)<!-- .element height="5%" width="5%"  style="float:right"-->![radiobreizh](/_assets/common/images/logo/radiobreizh.png)<!-- .element height="5%" width="5%"  style="float:right"-->![dispak](/_assets/common/images/logo/dispak.png)<!-- .element height="5%" width="5%" style="float:right"-->![francebleu](/_assets/common/images/logo/fbbi.jpg)<!-- .element height="5%" width="5%" style="float:right"-->![breizhvod](/_assets/common/images/logo/breizhvod.png)<!-- .element height="5%" width="5%" style="float:right"-->
+ __(* Informations / audiovisuel
+ * Stummañ/dafar pedagogel![edubreizh](/_assets/common/images/logo/edubreizh.png)<!-- .element height="10%" width="10%"  style="float:right"-->![tes](/_assets/common/images/logo/tes.png)<!-- .element height="5%" width="5%"  style="float:right"-->![dao](/_assets/common/images/logo/dao.png)<!-- .element height="5%" width="5%"  style="float:right"-->
+ __(* Formations / Outils pedagogiques
+ * C’hoarioù![kejmesk](/_assets/common/images/logo/kejmesk.png)<!-- .element height="20%" width="20%" style="float:right"-->
+ __(* Jeux
+
+----
+
+### Ostilhoù enlinenn a-bep seurt
+__(### Tout sortes d'outils en ligne
+
+ * Kefluskerioù enklask ![qwant](/_assets/common/images/logo/qwant.png)<!-- .element height="10%" width="10%" -->
+ __(* Moteurs de recherche
+ * Mediaoù kevredadel
+ ![korrimel](/_assets/common/images/logo/facebook.png)<!-- .element height="20%" width="20%" -->
+ ![diaspora](/_assets/common/images/logo/diaspora.png)<!-- .element height="5%" width="5%" -->
+ ![mastodon](/_assets/common/images/logo/mastodon.png)<!-- .element height="20%" width="20%" -->
+ __(* Media sociaux
+ * Postelerezh
+ ![korrimel](/_assets/common/images/logo/korrimel.png)<!-- .element height="20%" width="20%" -->
+ ![gozmail](/_assets/common/images/logo/gozmail.png)<!-- .element height="20%" width="20%" -->
+ __(* Messageries électroniques
+ 
+----
+
+### Ostilhoù enlinenn : Qwant
+__(### Outils en ligne : Qwant
+
+ ![Qwant](/_assets/common/images/shots/qwant.png) <!-- .element height="70%" width="70%" -->
+
 ----
 
 ### Ostilhoù enlinenn : framadate
@@ -126,19 +184,51 @@ __(### Outils en ligne : framadate
 
 ----
 
-### Ostilhoù enlinenn : Qwant
-__(### Outils en ligne : Qwant
-
- ![Qwant](/_assets/common/images/shots/qwant.png) <!-- .element height="70%" width="70%" -->
- 
-----
-
 #### Ostilhoù enlinenn : OpenStreetMap.bzh
 __(### Outils en ligne : OpenStreetMap.bzh
 
  ![OpenStreetMap.bzh](/_assets/common/images/shots/osmbzh.png) <!-- .element height="70%" width="70%" -->
 
 (Gant ar gevredigezh OpenStreetMap.bzh) <!-- .element class="small" -->
+
+----
+
+#### Ostilhoù enlinenn : servijoù OPAB
+__(### Outils en ligne : les services le l'OPLB
+Termofis, Troer emgefreek (apertium), Kêrofis, Meurgorf<!-- .element style="font-size:12pt" -->
+
+ ![termofis](/_assets/common/images/shots/termofis.png) <!-- .element height="40%" width="40%" -->
+ ![troer](/_assets/common/images/shots/troer.png) <!-- .element height="30%" width="30%" -->
+ ![kerofis](/_assets/common/images/shots/kerofis.png) <!-- .element height="30%" width="30%" -->
+ ![meurgorf](/_assets/common/images/shots/meurgorf.png) <!-- .element height="30%" width="30%" -->
+
+
+----
+
+#### Ostilhoù enlinenn : stal.bzh
+__(### Outils en ligne : stal.bzh
+
+ ![stal](/_assets/common/images/shots/stalbzh.png) <!-- .element height="60%" width="60%" -->
+ ![stal](/_assets/common/images/shots/stalbzh_hezoug.png) <!-- .element height="20%" width="20%" -->
+
+(Gant ar gevredigezh Mignoned ar Brezhoneg) <!-- .element class="small" -->
+
+----
+
+#### Penaos kaout ar renabl eus se ?
+__(### Comment avoir un inventaire de tout ça ?
+
+ * War lec’hiennoù zo (tiez ar vro, skolioù, http://brezhonadur.com, h.a.)
+ __(* Sur certains sites (tiez ar vro, écoles etc.)
+ * Sinedoù da enporzhiañ en o merdeer
+ __(* Marques-pages à importer dans votre navigateur
+ * War ar stern : Porched Bed Niverel
+ __(* En projet : un portail Bed Niverel
+
+---
+
+## Ar brezhoneg war ho pellgomzer
+__(## Le breton sur votre téléphone
 
 ----
 
@@ -167,6 +257,20 @@ __(### Sur votre téléphone : SwiftKey
 (Gant an embregerezh SwiftKey) <!-- .element class="small" -->
 
   ![SwiftKey](/_assets/common/images/shots/swiftkey.png) <!-- .element height="30%" width="30%" -->
+
+----
+
+### War ho pellgomzer : Wikipedia
+__(### Sur votre téléphone : Wikipedia
+
+  ![Wikipedia](/_assets/common/images/shots/wikipedia.jpg) <!-- .element height="30%" width="30%" -->
+
+----
+
+### War ho pellgomzer : OSMAnd
+__(### Sur votre téléphone : OSMAnd
+
+  ![OSMAnd](/_assets/common/images/shots/osmand.png) <!-- .element height="30%" width="30%" -->
 
 
 ---
@@ -297,6 +401,27 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 
   ![Minecraft](/_assets/common/images/shots/minecraft2.png)<!-- .element height="80%" width="80%" -->
 
+----
+
+### Hyperun
+
+  ![Hyperun](/_assets/common/images/shots/hyperun.png)<!-- .element height="80%" width="80%" -->
+
+----
+
+### Hyperun
+
+  ![Hyperun](/_assets/common/images/shots/hyperun2.png)<!-- .element height="80%" width="80%" -->
+
+---
+
+### Deoc'h da gemer perzh!
+ 
+ * Treiñ meziantoù, lec'hiennoù, arloadoù, c'hoarioù...
+ * Enrollañ ho mouezh war Common Voice
+ * Skrivañ pennadoù Wikipedia
+ * Labourat war OpenStreetMap.bzh
+ 
 ---
 
 ### Kaozeit ganeomp
@@ -315,5 +440,5 @@ http://drouizig.org
 ## Stailhit!
 __(## Installez !
 
-http://192.168.1.122:8000
+http://drouizig.org/staliadur/
 
