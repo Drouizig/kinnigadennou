@@ -3,7 +3,7 @@ __(### Outils numériques en breton
 
 ![An Drouizig](/_assets/common/images/logo.png) <!-- .element height="50%" width="50%" -->
 
-D'an 19 a viz Ebrel 2020
+D'an 08 a viz Gouere 2020
 
 Gwenn Meynier
 
@@ -413,14 +413,33 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 
   ![Hyperun](/_assets/common/images/shots/hyperun2.png)<!-- .element height="80%" width="80%" -->
 
+----
+
+### Flipon
+
+COMING SOON
+
+  ![Hyperun](/_assets/common/images/shots/flipon.png)<!-- .element height="80%" width="80%" -->
+
+----
+
+### Flipon
+
+
+  ![Hyperun](/_assets/common/images/shots/flipon2.png)<!-- .element height="80%" width="80%" -->
+
 ---
 
 ### Deoc'h da gemer perzh!
  
  * Treiñ meziantoù, lec'hiennoù, arloadoù, c'hoarioù...
+__(* Traduire des logiciels, sites web, applications, jeux
  * Enrollañ ho mouezh war Common Voice
+__(* Enregistrer sa voix sur Common Voice
  * Skrivañ pennadoù Wikipedia
+__(* Écrire des articles sur Wikipedia
  * Labourat war OpenStreetMap.bzh
+__(* Contribuer sur OpenStreetMap.bzh
  
 ---
 
