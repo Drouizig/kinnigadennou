@@ -358,6 +358,13 @@ __(* Voix données et validées par tout le monde
 
   ![Common Voice](/_assets/common/images/shots/common_voice2.png)
 
+----
+
+### Displeger Verboù Brezhonek
+
+  ![Common Voice](/_assets/common/images/shots/displeger.png)
+
+
 ---
 
 ### C'hoarioù video
@@ -417,7 +424,6 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 
 ### Flipon
 
-COMING SOON
 
   ![Hyperun](/_assets/common/images/shots/flipon.png)<!-- .element height="80%" width="80%" -->
 
@@ -427,6 +433,14 @@ COMING SOON
 
 
   ![Hyperun](/_assets/common/images/shots/flipon2.png)<!-- .element height="80%" width="80%" -->
+
+----
+
+### C'hoarioù web
+
+
+  ![Gerdle](/_assets/common/images/shots/gerdle.png)<!-- .element height="80%" width="40%" -->
+  ![KejMesk](/_assets/common/images/shots/kejmesk.png)<!-- .element height="80%" width="50%" -->
 
 ---
 
