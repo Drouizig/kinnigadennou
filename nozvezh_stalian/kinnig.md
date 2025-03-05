@@ -3,7 +3,7 @@ __(### Outils numériques en breton
 
 ![An Drouizig](/_assets/common/images/logo.png) <!-- .element height="50%" width="50%" -->
 
-D'an 08 a viz Gouere 2020
+D'ar 7 a viz Mezheven 2023
 
 Gwenn Meynier
 
@@ -436,10 +436,21 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 
 ----
 
-### C'hoarioù web
+### C'hoarioù web : Gerdle
 
 
   ![Gerdle](/_assets/common/images/shots/gerdle.png)<!-- .element height="80%" width="40%" -->
+
+----
+
+### C'hoarioù web : Bomb Party
+
+  ![KejMesk](/_assets/common/images/shots/bombparty.png)<!-- .element height="80%" width="50%" -->
+
+----
+
+### C'hoarioù web : Kej-mesk
+
   ![KejMesk](/_assets/common/images/shots/kejmesk.png)<!-- .element height="80%" width="50%" -->
 
 ---
