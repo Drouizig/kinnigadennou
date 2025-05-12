@@ -3,9 +3,9 @@ __(### Outils numériques en breton
 
 ![An Drouizig](/_assets/common/images/logo.png) <!-- .element height="50%" width="50%" -->
 
-D'ar 7 a viz Mezheven 2023
+D'an 18 a viz Meurzh 2025
 
-Gwenn Meynier
+Gwenn ha Chamie
 
 ---
 
@@ -47,13 +47,13 @@ __(### Nous ne sommes pas seuls !
 __(### Nous ne sommes pas seuls !
  
  * __Mignoned ar Brezhoneg__ (stal.bzh) ![MAB](/_assets/common/images/logo/mignoned.png)<!-- .element height="15%" width="15%" style="float:right" -->
- 
- * __Stag__, __Roued__ (bev.bzh), __Edubreizh__, __Pik.bzh__
- ![MAB](/_assets/common/images/logo/stag.png)<!-- .element height="10%" width="10%"  -->
+ * __Roued__ (bev.bzh), __Pik.bzh__
  ![MAB](/_assets/common/images/logo/pik.png)<!-- .element height="10%" width="10%"  -->
- ![MAB](/_assets/common/images/logo/edubreizh.png)<!-- .element height="10%" width="10%"  -->
- * __Hiniennoù__ (brezhonadur.com)
- __(* Personnes individuelles (brezhonadur.com)
+ * __Skolioù-meur__ (Mélanie Jouitteau & Loig Grobol)
+ __(* Universités
+ * __Wikimedia__
+ * __Hiniennoù__ (vosk-br (Gwendal Duval-Guennoc))
+ __(* Personnes individuelles
 
 ---
 
@@ -156,8 +156,6 @@ __(### Sites
 ### Ostilhoù enlinenn a-bep seurt
 __(### Tout sortes d'outils en ligne
 
- * Kefluskerioù enklask ![qwant](/_assets/common/images/logo/qwant.png)<!-- .element height="10%" width="10%" -->
- __(* Moteurs de recherche
  * Mediaoù kevredadel
  ![korrimel](/_assets/common/images/logo/facebook.png)<!-- .element height="20%" width="20%" -->
  ![diaspora](/_assets/common/images/logo/diaspora.png)<!-- .element height="5%" width="5%" -->
@@ -168,13 +166,6 @@ __(### Tout sortes d'outils en ligne
  ![gozmail](/_assets/common/images/logo/gozmail.png)<!-- .element height="20%" width="20%" -->
  __(* Messageries électroniques
  
-----
-
-### Ostilhoù enlinenn : Qwant
-__(### Outils en ligne : Qwant
-
- ![Qwant](/_assets/common/images/shots/qwant.png) <!-- .element height="70%" width="70%" -->
-
 ----
 
 ### Ostilhoù enlinenn : framadate
@@ -195,12 +186,9 @@ __(### Outils en ligne : OpenStreetMap.bzh
 
 #### Ostilhoù enlinenn : servijoù OPAB
 __(### Outils en ligne : les services le l'OPLB
-Termofis, Troer emgefreek (apertium), Kêrofis, Meurgorf<!-- .element style="font-size:12pt" -->
+niverel.brezhoneg.bzh
 
- ![termofis](/_assets/common/images/shots/termofis.png) <!-- .element height="40%" width="40%" -->
- ![troer](/_assets/common/images/shots/troer.png) <!-- .element height="30%" width="30%" -->
- ![kerofis](/_assets/common/images/shots/kerofis.png) <!-- .element height="30%" width="30%" -->
- ![meurgorf](/_assets/common/images/shots/meurgorf.png) <!-- .element height="30%" width="30%" -->
+ ![termofis](/_assets/common/images/shots/niverel.brezhoneg.png) 
 
 
 ----
@@ -252,11 +240,12 @@ __(### Sur votre téléphone : K-9 Mail et Vanilla Music
 
 ----
 
-### War ho pellgomzer : SwiftKey
+### War ho pellgomzer : SwiftKey ha Thumb-key
 __(### Sur votre téléphone : SwiftKey
 (Gant an embregerezh SwiftKey) <!-- .element class="small" -->
 
   ![SwiftKey](/_assets/common/images/shots/swiftkey.png) <!-- .element height="30%" width="30%" -->
+  ![thumb-key](/_assets/common/images/shots/thumbkey.webp) <!-- .element height="10%" width="28%" -->
 
 ----
 
@@ -271,6 +260,14 @@ __(### Sur votre téléphone : Wikipedia
 __(### Sur votre téléphone : OSMAnd
 
   ![OSMAnd](/_assets/common/images/shots/osmand.png) <!-- .element height="30%" width="30%" -->
+
+----
+
+### War ho pellgomzer : PlantNet
+__(### Sur votre téléphone : Plantnet
+
+  ![Plantnet](/_assets/common/images/shots/plantnet.png) <!-- .element height="30%" width="30%" -->
+
 
 
 ---
@@ -361,8 +358,26 @@ __(* Voix données et validées par tout le monde
 ----
 
 ### Displeger Verboù Brezhonek
-
+  https://displeger.bzh
   ![Common Voice](/_assets/common/images/shots/displeger.png)
+
+----
+
+### Podskignadoù Breizh
+  https://pod.drouizig.org
+  ![Common Voice](/_assets/common/images/shots/podskignadou.png)
+
+----
+
+### Visa numérique Bretagne / Visa niverel Breizh
+  
+  ![BZH niverel](/_assets/common/images/logo/bzhniverel.jpg)
+
+----
+
+### VOSK-br
+Gant Gweltaz Duval-Guennoc
+https://x.com/Tornoz/status/1807082855362613560
 
 
 ---
@@ -436,6 +451,25 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 
 ----
 
+### Knight Bar Fight
+
+
+  ![KBF](/_assets/common/images/shots/KBF.jpg)<!-- .element height="80%" width="80%" -->
+
+----
+
+### Knight Bar Fight
+
+  ![KBF](/_assets/common/images/shots/KBF2.jpg)<!-- .element height="80%" width="80%" -->
+
+----
+
+### War ho skrammoù a-benn nebeud
+
+Cloudy Valley ha Cthuloot...
+
+----
+
 ### C'hoarioù web : Gerdle
 
 
@@ -474,10 +508,11 @@ __(### Échangez avec nous
 http://drouizig.org
 
  * drouizig@drouizig.org
- * ![Twitter](/_assets/common/images/logo/twitter.png) <!-- .element height="5%" width="5%" --> @AnDrouizig
- * ![Facebook](/_assets/common/images/logo/facebook.png) <!-- .element height="20%" width="20%" --> facebook.com/androuizig
- * ![Disapora](/_assets/common/images/logo/diaspora.png) <!-- .element height="5%" width="5%" --> drouizig@framasphere.org
- * ![Instagram](/_assets/common/images/logo/instagram.png) <!-- .element height="5%" width="5%" --> androuizig
+ * ![Discord](/_assets/common/images/logo/discord.png) <!-- .element style="vertical-align:middle" height="5%" width="5%" --> discord.gg/46Sqd2EGf8
+ * ![Instagram](/_assets/common/images/logo/instagram.png) <!-- .element style="vertical-align:middle" height="5%" width="5%" --> androuizig
+ * ![Mastodon](/_assets/common/images/logo/mastodon.png) <!-- .element style="vertical-align:middle" height="5%" width="5%" --> @drouizig@mastodon.fedi.bzh
+ * ![Bluesky](/_assets/common/images/logo/bluesky.png) <!-- .element style="vertical-align:middle" height="5%" width="5%" --> @AnDrouizig
+ * ![Facebook](/_assets/common/images/logo/facebook.png) <!-- .element style="vertical-align:middle" height="20%" width="20%" --> facebook.com/androuizig
 
 ---
 
