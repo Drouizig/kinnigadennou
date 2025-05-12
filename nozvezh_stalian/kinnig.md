@@ -3,9 +3,9 @@ __(### Outils numériques en breton
 
 ![An Drouizig](/_assets/common/images/logo.png) <!-- .element height="50%" width="50%" -->
 
-D'an 18 a viz Meurzh 2025
+D'ar 15 a viz Mae 2025
 
-Gwenn ha Chamie
+Gwenn Meynier
 
 ---
 
@@ -120,12 +120,6 @@ __(### Quels logiciels ?
 
 ----
 
-### Skouer : Clementine
-
- ![Clementine](/_assets/common/images/shots/clementine.png)
-
-----
-
 ### Skouer : Firefox
 
  ![Firefox](/_assets/common/images/shots/firefox.png) <!-- .element height="70%" width="70%" -->
@@ -144,9 +138,9 @@ __(### Sites
 
  * Geriadurioù ![opab](/_assets/common/images/logo/opab.png)<!-- .element height="5%" width="5%"  style="float:right"-->![preder](/_assets/common/images/logo/preder.png)<!-- .element height="10%" width="10%"  style="float:right"-->![geriafurch](/_assets/common/images/logo/geriafurch.png)<!-- .element height="5%" width="5%"  style="float:right"-->
  __(* Dictionnaires
- * Keleier/kleweled![ya](/_assets/common/images/logo/ya.png)<!-- .element height="5%" width="5%"  style="float:right"-->![brezhoweb](/_assets/common/images/logo/brezhoweb.png)<!-- .element height="5%" width="5%"  style="float:right"-->![radiobreizh](/_assets/common/images/logo/radiobreizh.png)<!-- .element height="5%" width="5%"  style="float:right"-->![dispak](/_assets/common/images/logo/dispak.png)<!-- .element height="5%" width="5%" style="float:right"-->![francebleu](/_assets/common/images/logo/fbbi.jpg)<!-- .element height="5%" width="5%" style="float:right"-->![breizhvod](/_assets/common/images/logo/breizhvod.png)<!-- .element height="5%" width="5%" style="float:right"-->
+ * Keleier/kleweled![ya](/_assets/common/images/logo/ya.png)<!-- .element height="5%" width="5%"  style="float:right"-->![brezhoweb](/_assets/common/images/logo/brezhoweb.png)<!-- .element height="5%" width="5%"  style="float:right"-->![radiobreizh](/_assets/common/images/logo/radiobreizh.png)<!-- .element height="5%" width="5%"  style="float:right"-->![francebleu](/_assets/common/images/logo/fbbi.jpg)<!-- .element height="5%" width="5%" style="float:right"-->![breizhvod](/_assets/common/images/logo/breizhvod.png)<!-- .element height="5%" width="5%" style="float:right"-->
  __(* Informations / audiovisuel
- * Stummañ/dafar pedagogel![edubreizh](/_assets/common/images/logo/edubreizh.png)<!-- .element height="10%" width="10%"  style="float:right"-->![tes](/_assets/common/images/logo/tes.png)<!-- .element height="5%" width="5%"  style="float:right"-->![dao](/_assets/common/images/logo/dao.png)<!-- .element height="5%" width="5%"  style="float:right"-->
+ * Stummañ/dafar pedagogel![tes](/_assets/common/images/logo/tes.png)<!-- .element height="5%" width="5%"  style="float:right"-->
  __(* Formations / Outils pedagogiques
  * C’hoarioù![kejmesk](/_assets/common/images/logo/kejmesk.png)<!-- .element height="20%" width="20%" style="float:right"-->
  __(* Jeux
@@ -157,9 +151,8 @@ __(### Sites
 __(### Tout sortes d'outils en ligne
 
  * Mediaoù kevredadel
- ![korrimel](/_assets/common/images/logo/facebook.png)<!-- .element height="20%" width="20%" -->
- ![diaspora](/_assets/common/images/logo/diaspora.png)<!-- .element height="5%" width="5%" -->
- ![mastodon](/_assets/common/images/logo/mastodon.png)<!-- .element height="20%" width="20%" -->
+ ![korrimel](/_assets/common/images/logo/facebook.png)<!-- .element height="10%" width="10%" -->
+ ![mastodon](/_assets/common/images/logo/mastodon.png)<!-- .element height="5%" width="5%" -->
  __(* Media sociaux
  * Postelerezh
  ![korrimel](/_assets/common/images/logo/korrimel.png)<!-- .element height="20%" width="20%" -->
@@ -206,12 +199,10 @@ __(### Outils en ligne : stal.bzh
 #### Penaos kaout ar renabl eus se ?
 __(### Comment avoir un inventaire de tout ça ?
 
- * War lec’hiennoù zo (tiez ar vro, skolioù, http://brezhonadur.com, h.a.)
+ * War lec’hiennoù zo (tiez ar vro, skolioù, h.a.)
  __(* Sur certains sites (tiez ar vro, écoles etc.)
  * Sinedoù da enporzhiañ en o merdeer
  __(* Marques-pages à importer dans votre navigateur
- * War ar stern : Porched Bed Niverel
- __(* En projet : un portail Bed Niverel
 
 ---
 
@@ -369,12 +360,6 @@ __(* Voix données et validées par tout le monde
 
 ----
 
-### Visa numérique Bretagne / Visa niverel Breizh
-  
-  ![BZH niverel](/_assets/common/images/logo/bzhniverel.jpg)
-
-----
-
 ### VOSK-br
 Gant Gweltaz Duval-Guennoc
 https://x.com/Tornoz/status/1807082855362613560
@@ -508,11 +493,11 @@ __(### Échangez avec nous
 http://drouizig.org
 
  * drouizig@drouizig.org
- * ![Discord](/_assets/common/images/logo/discord.png) <!-- .element style="vertical-align:middle" height="5%" width="5%" --> discord.gg/46Sqd2EGf8
  * ![Instagram](/_assets/common/images/logo/instagram.png) <!-- .element style="vertical-align:middle" height="5%" width="5%" --> androuizig
  * ![Mastodon](/_assets/common/images/logo/mastodon.png) <!-- .element style="vertical-align:middle" height="5%" width="5%" --> @drouizig@mastodon.fedi.bzh
  * ![Bluesky](/_assets/common/images/logo/bluesky.png) <!-- .element style="vertical-align:middle" height="5%" width="5%" --> @AnDrouizig
  * ![Facebook](/_assets/common/images/logo/facebook.png) <!-- .element style="vertical-align:middle" height="20%" width="20%" --> facebook.com/androuizig
+ * ![Discord](/_assets/common/images/logo/discord.png) <!-- .element style="vertical-align:middle" height="5%" width="5%" --> https://drouizig.org/liammou
 
 ---
 
@@ -520,4 +505,3 @@ http://drouizig.org
 __(## Installez !
 
 http://drouizig.org/staliadur/
-
