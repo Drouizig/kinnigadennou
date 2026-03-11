@@ -3,7 +3,7 @@ __(### Outils numériques en breton
 
 ![An Drouizig](/_assets/common/images/logo.png) <!-- .element height="50%" width="50%" -->
 
-D'ar 15 a viz Mae 2025
+D'an 12 a viz Meurzh 2026
 
 Gwenn Meynier
 
@@ -416,12 +416,6 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 
 ----
 
-### Hyperun
-
-  ![Hyperun](/_assets/common/images/shots/hyperun2.png)<!-- .element height="80%" width="80%" -->
-
-----
-
 ### Flipon
 
 
@@ -449,16 +443,27 @@ Note: marteze n'hoc'h  ket dedennet gant se met pouezus eo evit ar remziadoù ya
 
 ----
 
-### War ho skrammoù a-benn nebeud
+### Cthuloot
 
-Cloudy Valley ha Cthuloot...
+  ![Cthuloot](/_assets/common/images/shots/cthuloot.png)<!-- .element height="80%" width="80%" -->
+----
+
+### Cthuloot
+
+  ![Cthuloot](/_assets/common/images/shots/cthuloot2.webp)<!-- .element height="80%" width="80%" -->
 
 ----
 
-### C'hoarioù web : Gerdle
+### Super Reaktor
 
+  ![Super Reaktor](/_assets/common/images/shots/superreaktor.webp)<!-- .element height="80%" width="80%" -->
 
-  ![Gerdle](/_assets/common/images/shots/gerdle.png)<!-- .element height="80%" width="40%" -->
+----
+
+### Super Reaktor
+
+  ![Super Reaktor](/_assets/common/images/shots/superreaktor2.webp)<!-- .element height="80%" width="80%" -->
+
 
 ----
 
